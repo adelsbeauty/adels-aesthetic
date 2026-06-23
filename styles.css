@@ -203,7 +203,13 @@ a {
   background: rgba(255, 255, 255, 0.12);
 }
 
-.button.kakao {
+.button.message {
+  color: var(--white);
+  background: var(--sage);
+  border-color: var(--sage);
+}
+
+.button.openchat {
   color: #2b2118;
   background: #fee500;
   border-color: #fee500;
